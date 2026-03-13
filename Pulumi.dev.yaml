@@ -1,0 +1,7 @@
+config:
+  azure-demo-pr:errorDocument: error.html
+  azure-demo-pr:indexDocument: index.html
+  azure-demo-pr:path: ./www
+  azure-native:location: WestUS
+environment:
+  - shared/azure-dev
